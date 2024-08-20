@@ -1,0 +1,13 @@
+1- Escutar o despertador tocar
+2- Abrir o olho
+3- Desligar o despertador
+4- Sentar na cama
+5- Levantar da cama
+6- Se a porta do quarto estiver fechada
+    1- Vá até a porta 
+    2- Coloque a mão na massaneta
+    3- Gire 360 graus
+    4- Puxe a porta
+7- Se a porta do quarto estiver aberta
+    1- Apenas passe por ela
+8- Continue seu dia
